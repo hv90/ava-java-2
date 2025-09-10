@@ -1,4 +1,4 @@
-# Projeto: Sistema de Gerenciamento de Frota (Aviões e Navios)
+# Projeto: Sistema de Gerenciamento de Frota (Aviões e Navios) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17090003.svg)](https://doi.org/10.5281/zenodo.17090003)
 
 ## 📌 Descrição
 Este projeto consiste em uma aplicação Java orientada a objetos que implementa **herança, polimorfismo, tratamento de exceções e uso de vetores de objetos**.  

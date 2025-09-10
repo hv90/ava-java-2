@@ -80,3 +80,12 @@ classDiagram
         + imprimir()
         + passageirosPorTripulantes()
     }
+```
+
+## Como Rodar
+
+Certifique-se de ter **Java JDK 11+** e **Maven** instalados.  
+No terminal, execute:
+
+```bash
+mvn clean test
